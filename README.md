@@ -6,4 +6,6 @@ Edited The Escort and Seat and unseat players
 
 so you can escort/seat/unseat the dead/alive/knocked
 
+And Quick Binds so Arrow keys let you escort and seat players!
+
 Preveiw Soon!
